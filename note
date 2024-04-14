@@ -1,0 +1,170 @@
+<section>
+        <div class="container">
+            <h1 class="text-center mt-5">Most Popular Members</h1>
+            <div class="row justify-content-center d-flex  w-267px h-198px">
+              
+              <div class="box col-lg-3 mt-5 mb-5">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Mary Bells.png" alt="">
+                      <h3>Mary Bells</h3>
+                      <p>Joined three months ago</p>
+                </div>
+              </div>
+
+              <div class="box col-lg-3 mt-5 mb-5">
+                  <div class="d-inline-block justify-content-center p-5">
+                    <img src="./images/Stella John.png" alt="image">
+                    <h3>Stella John</h3>
+                    <p>Joined two months ago</p>
+                  </div>
+                </div>
+
+                <div class="box col-lg-3 mt-5 mb-5">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Role Pail.png" alt="">
+                      <h3>Role Pail</h3>
+                      <p>Joined four months ago</p>
+                </div>
+              </div>
+
+              <div class="box col-lg-3 mt-5 mb-5">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Kingsly sly.png" alt="">
+                      <h3>Kingsley Sly</h3>
+                      <p>Joined three months ago</p>
+                </div>
+              </div>
+
+              <div class="box col-lg-3 mt-5 mb-5">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Role Pail.png" alt="">
+                      <h3>Role Pail</h3>
+                      <p>Joined four months ago</p>
+                </div>
+              </div>
+
+              <div class="box col-lg-3 mt-5 mb-5">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Role Pail.png" alt="">
+                      <h3>Role Pail</h3>
+                      <p>Joined four months ago</p>
+                </div>
+              </div>
+
+              <div class="box col-lg-3 mt-5 mx-1">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Role Pail.png" alt="">
+                      <h3>Role Pail</h3>
+                      <p>Joined four months ago</p>
+                </div>
+              </div>
+
+              <div class="box col-lg-3 mt-5 mb-5 ">
+                <div class="d-inline-block justify-content-center p-5">
+                      <img src="./images/Role Pail.png" alt="">
+                      <h3>Role Pail</h3>
+                      <p>Joined four months ago</p>
+                </div>
+              </div>
+
+            </div>
+        </div>
+    </section>  
+
+
+
+        </header>l[]
+
+    <section class="hero d-flex justify-content-center align-items-center">
+        <div class="container ">
+            <!-- <div class="text-center">
+                <h1 class="text-white">Join Our Platform & Find <br> a Match Today.</h1>
+                <button class="w-127 h-120 btn bg-white ">Join Free Today</button>
+            </div> -->
+        </div>
+    </section>
+
+
+
+
+
+
+
+    .subscribe{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    max-width: 600px;
+    height: 40px;
+    padding: 2px 4px;
+}
+.subscribe input{
+    border: none;
+    opacity: 0.2;
+    background-color:rgb(230, 229, 229);
+    padding: 8px 12px;
+    border-radius: 0.5rem;
+    outline: none;
+    width: 90%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    height: 90%;
+
+}
+.subscribe button{
+    background-color: #0266f4;
+    opacity: 0.5;
+    color: white;
+    font-size: 8px;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 90%;
+    width: 10%;
+    border: none;
+
+
+}
+
+
+
+
+<section class="footer container-fluid d-inline-block mt-5">
+        <div class="container">
+          <div class="ready-icons bg-white d-block justify-content-center">
+
+            <div class="ready bg-dark d-flex justify-content-between ">
+
+              <div class="are bg-success d-inline-block">
+                <img src="./images/Logo.png" class="" alt="logo">
+                <p class="text-black">Are you Ready?</p>
+              </div>
+
+              <div>
+                <button>Get Started</button>
+              </div>
+            </div>
+
+          <div class="icons d-flex">
+            <a href="https://facebook.com" ><i class="bi bi-facebook"></i></a>
+
+            <a href="https://twitter.com" class="text-decoration-none text-dark"
+              ><i class="bi bi-twitter fs-5"></i
+            ></a>
+            <i class="bi bi-instagram"></i>
+          </div>
+
+          </div>
+        </div>
+
+        
+
+      </section>
+
+
+      top: 4546px;
+    left: 147px;
+    gap: 0px;
+    opacity: 0px;
