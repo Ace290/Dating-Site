@@ -92,6 +92,7 @@ form{
     text-align: center;
     color: white;
     padding: 30px 10px;
+    margin: auto;
 }
 .view-btn{
     background-color:#7C0B0B;
@@ -143,10 +144,7 @@ opacity: 0px;
     /* top: 4365px; */
     gap: 0px;
     opacity: 0px;
-    
-}
-.footer {
-
+    margin-top: 80px;
 }
 .ready{
     background-color: white;
@@ -214,4 +212,205 @@ opacity: 0px;
     color: white;
     text-decoration-line: none;
     text-decoration: none;
+}
+.social-links{
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    height: auto;
+}
+.social-links a{
+    border: 1px solid white;
+    border-radius: 100%;
+    padding: 5px;
+    font-size: 10px;
+}
+@media(min-width:768px){
+    .con-link{
+        display: flex;
+        margin-right: 50px;
+    }
+
+    .social-links{
+        margin-top: 50px;
+    }
+    .foot{
+        margin-top: 12px;
+    }
+}
+@media(min-width:1024px){
+    .con-link{
+        margin-right: 50px;
+        position: relative;
+        top: 70px;
+    }
+    .social-links{
+        justify-content: start;
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    .foot{
+        width: 500px;
+    }
+    .foot-btn{
+        margin-left: 200px;
+        margin-top: -10px;
+    }
+}
+@media(min-width:1440px){
+    .social-links{
+        margin-left: 200px;
+    }
+    .con-link{
+        margin-right: 180px;
+    }
+}
+@media(min-width:768px){
+    .subput input{
+        width: 350px;
+    }
+}
+footer{
+    background: #7C0B0B;
+    height: 350px;
+    z-index: -300;
+}
+.con-link{
+    position: relative;
+    top: 10px;
+    margin: auto;
+}
+.foot{
+    padding: 20px;
+    display: flex;
+    gap: 40px;
+    border-radius: 30px;
+    height: 110px;
+    align-items: center;
+    margin: auto;
+    background-color: #fff;
+    width: 300px;
+    justify-content: space-between;
+}
+.foot h3{
+    font-size: 16px;
+}
+.foot-btn{
+    margin: auto;
+}
+.foot-sub img{
+    margin-bottom: -35px;
+    width: 80px;
+    height: 70px;
+}
+
+.foot-sub h3{
+    font-size: 10px;
+}
+
+.foot-btn button{
+    background-color: #7C0B0B;
+    color: #fff;
+    border: none;
+    padding: 5px 15px 5px 5px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: -20px;
+    font-size: 16px;
+    width: 120px;
+    
+}
+.foot-btn button:hover{
+    background-color: #fff;
+    color: #7C0B0B;
+}
+
+.con-link{
+    
+    justify-content: space-around;
+}
+.link{
+    display: flex;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.foot-sub{
+    background-color: #fff;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.link{
+    justify-content: center;
+    margin-top: 20px;
+    gap: 50px;
+
+}
+
+
+.links a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 1.5;
+}
+.links a:hover{
+    text-decoration: underline;
+}
+.social-links{
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    height: auto;
+}
+.social-links a{
+    border: 1px solid white;
+    border-radius: 100%;
+    padding: 5px;
+    font-size: 10px;
+}
+@media(min-width:768px){
+    .con-link{
+        display: flex;
+        margin-right: 50px;
+    }
+
+    .social-links{
+        margin-top: 50px;
+    }
+    .foot{
+        margin-top: 12px;
+    }
+}
+@media(min-width:1024px){
+    .con-link{
+        margin-right: 50px;
+        position: relative;
+        top: 70px;
+    }
+    .social-links{
+        justify-content: start;
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    .foot{
+        width: 500px;
+    }
+    .foot-btn{
+        margin-left: 200px;
+        margin-top: -10px;
+    }
+}
+@media(min-width:1440px){
+    .social-links{
+        margin-left: 200px;
+    }
+    .con-link{
+        margin-right: 180px;
+    }
 }
